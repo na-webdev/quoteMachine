@@ -1,2 +1,2 @@
 # Quote Machine
-Generates random machine. It was made using HTML, CSS, React in HTML.
+Generates random machine. It was made using HTML, CSS, React in JS.
